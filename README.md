@@ -7,5 +7,4 @@
 	- npx react-native run-android
 
 # Important
-* It is required to have the basic react-native cli and android studio and java installed in your machine
-
+* It is required to have the basic react-native cli, android studio and java installed in your machine
